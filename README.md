@@ -65,18 +65,3 @@ Based on the data, the following actions are recommended:
 * **Review Discount Policy:** Balance sales boosts with margin control to ensure profitability [cite: 119].
 * **Targeted Marketing:** Focus digital ad efforts on high-revenue age groups and express-shipping users [cite: 121].
 * **Product Positioning:** Highlight top-rated and best-selling products like Gloves and Jewelry in marketing campaigns [cite: 120].
-
----
-
-## 🚀 How to Use This Project
-1.  **Clone the Repo:**
-    ```bash
-    git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-    ```
-2.  **Clean the Data:** Run the `Customer_Shopping_Behavior_Analysis.ipynb` notebook to process the raw data [cite: 13].
-3.  **Load SQL:** Execute the Python script to push data to your PostgreSQL database [cite: 25].
-4.  **Analyze:** Run structured SQL queries to answer business questions [cite: 27].
-5.  **Visualize:** Connect the SQL database to Power BI to explore the interactive dashboard [cite: 77].
-
----
-*This project is licensed under the MIT License.*
